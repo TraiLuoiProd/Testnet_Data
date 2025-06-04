@@ -1,5 +1,55 @@
 {
-    "TokenData": [
-        "0x59c4f9c2ce485f6a5725014d86f1117535f274b670310ce6d6e5706a656da688::trailuoi::TRAILUOI"
-    ]
+  "TokenData": [
+    "0x59c4f9c2ce485f6a5725014d86f1117535f274b670310ce6d6e5706a656da688::trailuoi::TRAILUOI",
+    "0x93e728bce2b89f26014dcdb0b6fe582c932b47c741aab8c7e16e61c101b2353b::bdml::BDML",
+    "0xff8c80be66761a73f0e2f88f522b1578904d8e09cbc72d7ff0b3215fb8b2cb06::kalabat::KALABAT",
+    "0xc449630c9f82d9a9aa226966482ea34d118cf4242b95e211eb1e1f7ff3b96275::hahaha::HAHAHA"
+  ],
+  "msgList": [
+    "LFG",
+    "To The Moon",
+    "HODL",
+    "Buy The Dip",
+    "Diamond Hands",
+    "We're still early",
+    "WAGMI",
+    "NGMI",
+    "Going parabolic!",
+    "Just bought the dip!",
+    "Bullish af",
+    "Bear market is for builders",
+    "Not financial advice",
+    "Retiring next cycle",
+    "Ape in!",
+    "Strong hands",
+    "Crypto is the future",
+    "I'm here for the tech",
+    "Don’t get shaken out",
+    "This is the way",
+    "Next stop: the moon!",
+    "When Lambo?",
+    "Hold the line!",
+    "This is the bottom… maybe",
+    "Whale incoming!",
+    "DeFi summer vibes",
+    "Rug pull alert",
+    "FOMO kicking in",
+    "DYOR",
+    "Mooning soon",
+    "Bagholder’s paradise",
+    "Pump it!",
+    "Max pain incoming",
+    "ATH vibes only",
+    "Send it!",
+    "Stacking sats",
+    "No coiners gonna cry",
+    "DCA all the way",
+    "Rekt city",
+    "BTFD!",
+    "Flippening soon",
+    "Moon or bust",
+    "Yield farming szn",
+    "Paper hands panic",
+    "HODLing to Valhalla"
+]
 }
