@@ -1,7 +1,9 @@
 {
   "TokenData": [
     "0xadca67ddc638b51ced6dc4ecb8c55e9d1510f3634e6ded2c16f20e63dd6170bf::del::DEL",
-    "0x30573cc4bb71405ea87b233830446e38b8530d62cdd39f7d728f7e3f9f39c037::sushi::SUSHI"
+    "0x30573cc4bb71405ea87b233830446e38b8530d62cdd39f7d728f7e3f9f39c037::sushi::SUSHI",
+    "0xe156505fd2831b912a2f2328000ae75f70facdc70608f7ae170a7c217892320a::graceannescott6894::GRACEANNESCOTT6894",
+    "0xe00fbcab3446afafed385c352d8abcab804737591c35301af9b5515fcafb1065::charlotteanneyoung5912::CHARLOTTEANNEYOUNG5912"
   ],
   "msgList": [
     "LFG",
